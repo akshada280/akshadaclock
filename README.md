@@ -1,2 +1,3 @@
-# akshadaclock
-In my project javascript language is used.
+# CLOCK USING JS
+
+Clock is made using simple JavaScript.
